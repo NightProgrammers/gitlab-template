@@ -3,9 +3,8 @@
 
 > HERE:一句话简短的描述这个项目.
 
-[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cez-aug/github-project-boilerplate) 
-[![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) 
-[![Travis](https://img.shields.io/travis/cez-aug/github-project-boilerplate.svg)](http://github.com/cez-aug/github-project-boilerplate)
+[![项目状态](https://img.shields.io/badge/项目状态-开发中-orange.svg)](https://github.com/wuhuizuo/gitlab-template) 
+[![构建状态](https://img.shields.io/travis/wuhuizuo/gitlab-template.svg)](https://github.com/wuhuizuo/gitlab-template)
 
 > HERE:项目概述
 > <br>
