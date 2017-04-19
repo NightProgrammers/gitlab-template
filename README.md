@@ -31,7 +31,7 @@ $ sudo gem install xxx
 
 详情请参见: [CONTRIBUTING](CONTRIBUTING.md)
 
-> 或者你也可以直接在这里简要的书写:
+> **[?]** 或者你也可以直接在这里简要的书写:
 
 1. `Fork` this repository or `checkout` this repository if you are a Developer role user.
 2. Create a `branch`
