@@ -50,7 +50,7 @@ $ sudo gem install xxx
 > **[?]** 你的项目中使用了别人的框架或者别人的成果,在这里给出参考项目的链接或者鸣谢个人/团队:
 
 * [xxx project](http://xxx.com/). 借鉴参考其框架.
-* [yyy project](yyy.org). 使用此工具或者框架.
+* [yyy project](http://yyy.org). 使用此工具或者框架.
 
 ## To-Do :man:
 
