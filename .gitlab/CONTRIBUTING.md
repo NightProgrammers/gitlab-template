@@ -21,8 +21,6 @@
 - Other Project Management site
 - Other Chat channel
 
-
-
 ## 开发环境准备
 
 你需要[`git`](https://git-scm.com/)工具来checkout本项目, 且需要 [`xxx 语言`](https://xxx-lang.org/en/) and
