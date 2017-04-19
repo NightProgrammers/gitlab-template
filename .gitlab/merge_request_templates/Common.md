@@ -10,9 +10,9 @@
 
 ## 变更概要
 
-- [ ] Bugfix #123456
-- [ ] Add new feature:yyy function
-- [ ] other...
+- Bugfix #123456
+- Add new feature:yyy function
+- other...
 
 ## 自检
 
