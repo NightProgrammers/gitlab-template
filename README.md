@@ -29,7 +29,7 @@ $ sudo gem install xxx
 
 > **[?]** 在`CONTRIBUTING.md`中写上贡献流程方法,或者写上主要贡献者,或者两者都写上, 如:
 
-详情请参见: [CONTRIBUTING](CONTRIBUTING.md)
+详情请参见: [CONTRIBUTING](./.gitlab/CONTRIBUTING.md)
 
 > **[?]** 或者你也可以直接在这里简要的书写:
 
@@ -39,7 +39,7 @@ $ sudo gem install xxx
 4. `Push` your `commits` to the `branch`
 5. Submit a `merge request`
 
-查看项目贡献者名单: [CONTRIBUTORS](CONTRIBUTORS.md)
+查看项目贡献者名单: [CONTRIBUTORS](./.gitlab/CONTRIBUTORS.md)
 
 ## 变更记录 :memo:
 
